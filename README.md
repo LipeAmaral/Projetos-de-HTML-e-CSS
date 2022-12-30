@@ -6,4 +6,4 @@ Aqui estarão alguns Projetos feito em aula e próprios utilizando o que eu apre
 
 Vocês podem vizualizar os Sites clicando nos Links a seguir:
 
-https://pagina-barbearia.vercel.app (Página da Barbearia)
+Barbearia - https://pagina-barbearia.vercel.app
