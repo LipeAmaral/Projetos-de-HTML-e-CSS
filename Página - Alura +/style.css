@@ -134,6 +134,13 @@ body{
 	.secundario{
 		margin: 0;
 		text-align: center;
+		width: 50vw;
 	}
-	
+	.dispositivos-lista{
+		display: block;
+	}
+	.rodape-lista{
+		display: block;
+		margin: 1em 0;
+	}
 }
