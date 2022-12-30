@@ -125,5 +125,11 @@ body{
 		display: block;
 		background-image: none;
 	}
+	.container-img{
+		width: 50vw;
+	}
+	.container-caixa{
+		margin: 2em 2em;
+	}
 	
 }
