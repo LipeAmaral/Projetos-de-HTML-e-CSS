@@ -120,6 +120,10 @@ body{
 }
 
 @media screen and (max-width: 768px) {
-	display: block;
-	background-image: none;
+
+	.container{
+		display: block;
+		background-image: none;
+	}
+	
 }
