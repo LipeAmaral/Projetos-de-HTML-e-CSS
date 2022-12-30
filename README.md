@@ -9,3 +9,5 @@ Vocês podem vizualizar os Sites clicando nos Links a seguir:
 Barbearia - https://pagina-barbearia.vercel.app
 
 Plataforma de Streamming - https://pagina-streamming.vercel.app/
+
+Página da HZC - https://pagina-hzc.vercel.app/
