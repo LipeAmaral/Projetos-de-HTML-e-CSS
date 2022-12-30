@@ -132,9 +132,7 @@ body{
 		margin: 2em 2em;
 	}
 	.secundario{
-		margin: 0;
-		text-align: center;
-		width: 50vw;
+		margin: 0;	
 	}
 	.dispositivos-lista{
 		display: block;
