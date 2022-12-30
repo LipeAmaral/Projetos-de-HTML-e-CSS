@@ -7,3 +7,4 @@ Aqui estarão alguns Projetos feito em aula e próprios utilizando o que eu apre
 Vocês podem vizualizar os Sites clicando nos Links a seguir:
 
 Barbearia - https://pagina-barbearia.vercel.app
+Plataforma de Streamming - https://pagina-streamming.vercel.app/
